@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+        <HTML lang="ESP">
+            <HEAD>
+                <META CHARSET="UTF-8">
+                    <TITLE>Sous inicial</TITLE>
+                     <LINK REL="""STYLESHEET" TYPE="TEXT/CSS" HREF="CSS/STYLE.CSS">
+             </HEAD>
+            <BODY>
+                <a href="">Mesas</a>
+                <a href="">Historial</a>
+                <a href="">Finanzas</a>
+                <a href="">Editar</a>
+                <a href="">Ayuda</a>
+                <form action="https://google.com">
+                    <input type="submit" value="Go to Google" />
+                </form>
+             </BODY>
